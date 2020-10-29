@@ -1,0 +1,26 @@
+{
+  "name": "Chat_video_Web",
+  "version": "1.0.0",
+  "description": "Chat con socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start_dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fredy-98/Chat_video_Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fredy-98/Chat_video_Web/issues"
+  },
+  "homepage": "https://github.com/Fredy-98/Chat_video_Web#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "socket.io": "^2.3.0"
+  }
+}
